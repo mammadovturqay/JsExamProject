@@ -1,0 +1,196 @@
+{
+  "Products": [
+    {
+      "title": "Jacket 1",
+      "type": "Jacket",
+      "image": "./src/images/jacket_1.png",
+      "quantity": 7,
+      "price": 50,
+      "discount": 10
+    },
+    {
+      "title": "Jacket 2",
+      "type": "Jacket",
+      "image": "./src/images/jacket_2.png",
+      "quantity": 5,
+      "price": 60,
+      "discount": 20
+    },
+    {
+      "title": "Jacket 3",
+      "type": "Jacket",
+      "image": "./src/images/jacket_3.png",
+      "quantity": 3,
+      "price": 40,
+      "discount": 0
+    },
+    {
+      "title": "Jacket 4",
+      "type": "Jacket",
+      "image": "./src/images/jacket_4.png",
+      "quantity": 9,
+      "price": 30,
+      "discount": 0
+    },
+    {
+      "title": "Jacket 5",
+      "type": "Jacket",
+      "image": "./src/images/jacket_5.png",
+      "quantity": 1,
+      "price": 100,
+      "discount": 0
+    },
+    {
+      "title": "Jacket 6",
+      "type": "Jacket",
+      "image": "./src/images/jacket_6.png",
+      "quantity": 8,
+      "price": 120,
+      "discount": 10
+    },
+    {
+      "title": "Jacket 7",
+      "type": "Jacket",
+      "image": "./src/images/jacket_7.png",
+      "quantity": 5,
+      "price": 75,
+      "discount": 25
+    },
+    {
+      "title": "Jacket 8",
+      "type": "Jacket",
+      "image": "./src/images/jacket_8.png",
+      "quantity": 9,
+      "price": 20,
+      "discount": 5
+    },
+    {
+      "title": "T-Shirt 1",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_1.png",
+      "quantity": 5,
+      "price": 50,
+      "discount": 0
+    },
+    {
+      "title": "T-Shirt 2",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_2.png",
+      "quantity": 10,
+      "price": 30,
+      "discount": 0
+    },
+    {
+      "title": "T-Shirt 3",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_3.png",
+      "quantity": 4,
+      "price": 80,
+      "discount": 10
+    },
+    {
+      "title": "T-Shirt 4",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_4.png",
+      "quantity": 7,
+      "price": 40,
+      "discount": 0
+    },
+    {
+      "title": "T-Shirt 5",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_5.png",
+      "quantity": 7,
+      "price": 90,
+      "discount": 50
+    },
+    {
+      "title": "T-Shirt 6",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_6.png",
+      "quantity": 7,
+      "price": 65,
+      "discount": 0
+    },
+    {
+      "title": "T-Shirt 7",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_7.png",
+      "quantity": 13,
+      "price": 70,
+      "discount": 10
+    },
+    {
+      "title": "T-Shirt 8",
+      "type": "T-Shirt",
+      "image": "./src/images/t-shirt_8.png",
+      "quantity": 6,
+      "price": 150,
+      "discount": 0
+    },
+    {
+      "title": "Hooded 1",
+      "type": "Hooded",
+      "image": "./src/images/hooded_1.png",
+      "quantity": 8,
+      "price": 10,
+      "discount": 0
+    },
+    {
+      "title": "Hooded 2",
+      "type": "Hooded",
+      "image": "./src/images/hooded_2.png",
+      "quantity": 4,
+      "price": 20,
+      "discount": 10
+    },
+    {
+      "title": "Hooded 3",
+      "type": "Hooded",
+      "image": "./src/images/hooded_3.png",
+      "quantity": 12,
+      "price": 40,
+      "discount": 20
+    },
+    {
+      "title": "Hooded 4",
+      "type": "Hooded",
+      "image": "./src/images/hooded_4.png",
+      "quantity": 2,
+      "price": 50,
+      "discount": 30
+    },
+    {
+      "title": "Hooded 5",
+      "type": "Hooded",
+      "image": "./src/images/hooded_5.png",
+      "quantity": 4,
+      "price": 30,
+      "discount": 0
+    },
+    {
+      "title": "Hooded 6",
+      "type": "Hooded",
+      "image": "./src/images/hooded_6.png",
+      "quantity": 8,
+      "price": 60,
+      "discount": 0
+    },
+    {
+      "title": "Hooded 7",
+      "type": "Hooded",
+      "image": "./src/images/hooded_7.png",
+      "quantity": 8,
+      "price": 70,
+      "discount": 0
+    },
+    {
+      "title": "Hooded 8",
+      "type": "Hooded",
+      "image": "./src/images/hooded_8.png",
+      "quantity": 4,
+      "price": 50,
+      "discount": 0
+    }
+  ]
+}
